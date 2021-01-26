@@ -12,9 +12,10 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-div.parent > #tag-4 {
+div#wall.parent > #tag-4 {
   display: none;
 }
+
 
 
 
